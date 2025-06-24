@@ -2,7 +2,7 @@
 
 def dna_rna_cleaner(sequence):
     bases = ['A', 'C', 'T', 'G', 'U']
-    sequence.upper().strip()
+    sequence = sequence.upper().strip()
     cleaned_seq = ''
     for s in sequence:
         if s in bases:
