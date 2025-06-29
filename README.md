@@ -9,9 +9,3 @@ A beginner-friendly DNA RNA manipulation library
 - Return the reverse of a sequence
 - Return the complementary of a sequence
 - Web application implemented with CherryPy
-
-## Tech Stack
-Python 3.13.3
-
-## License
-Apache-2.0
