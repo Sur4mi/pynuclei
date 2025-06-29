@@ -1,7 +1,4 @@
 # pynuclei
-DNA RNA manipulation library
-
-## pynuclei
 A beginner-friendly DNA RNA manipulation library
 
 ## Features
